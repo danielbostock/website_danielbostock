@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Cisco CLI (IOS, NX-OS etc)
+  icon: "images/skills/cisco.jpg"
+  summary: "Highly skilled, competent and capable with configuring and managing Cisco Network Devices via the Cisco IOS CLI"
+  url: https://cisco.com
+
+- name: Cisco Meraki
+  icon: "images/skills/meraki.png"
+  summary: "Deployed and Architected SD WAN solutions, Queensland Cisco Meraki User Group Co-Founder"
+  url: https://meraki.com
+
+- name: Networks
+  icon: "images/skills/networks.png"
+  summary: "Skilled in managing a large variety of network devices, and firmly understand networking fundamentals and standards."
+
+- name: Palo Alto Firewalls
+  icon: "images/skills/paloalto.png"
+  summary: "Managed and deployed Palo's both physically or virtually and through Panorama."
+  url: https://paloaltonetworks.com
+
+- name: Linux
+  icon: "images/skills/linux.png"
+  summary: "This is my OS of choice and I am very familiar with CentOS (RHEL) and Ubuntu"
+
+- name: Cloud Computing
+  icon: "images/skills/cloud.png"
+  summary: "Experience with AWS & Azure, in particular with Cloud Networking."
+
+- name: Python
+  icon: "images/skills/python.png"
+  summary: "I regularly use and write my network automation code in Python"
+  url: https://python.org
+
+- name: Ansible & AWX
+  icon: "images/skills/ansible.jpg"
+  summary: "Ansible is my weapon of choice for managing the plethora of Linux servers I run at home."
+  url: https://ansible.com
+
+- name: Docker
+  icon: "images/skills/docker.svg"
+  summary: "I use Docker to run personal services that I host such as - BitWarden, GitLab, Axigen Email, AWX, Grafana plus many more"
+  url: "https://www.docker.com/"
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "If anything is going to be scripted or coded, then it will be done in GIT. I am experienced equally with GitHub and GitLab GIT systems."
+  url: "https://git-scm.com/"

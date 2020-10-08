@@ -1,0 +1,68 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# your designation
+designation: Network Engineer
+# your company information
+company:
+  name: Fitness Lifestysle Group
+  url: "https://www.fitlg.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate and drive Network Engineer. I love building networks, in particular SD WAN networks. I also have a strong passion for network automation and programmability. I have built many scripts and applications either through Ansible or Python to do my tasks faster, more accurately and most importantly consistently.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email ME!
+  icon: "fas fa-envelope"
+  url: "me@danielbostock.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/danielbostock"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/dbostock/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/DanielBostock"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Networks
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

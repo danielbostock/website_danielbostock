@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: PanOS Bulk Importer
+  logo: images/projects/paloalto.png
+  role: Owner
+  repo: https://github.com/danielbostock/panos_python_csv_bulk_importer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: When you have different Palo Alto Firewalls and versions and no Panorama, but need to import a lot of data, this tool overcomes that challenge.
+  tags: ["professional", "palo-alto", "python"]
+
+- name: Managing and Deploying my own Static Website via HuGo
+  logo: images/projects/hugo.png
+  role: Owner
+  timeline: "October 2020 - Present"
+  repo: https://github.com/danielbostock/website_danielbostock
+  #url: ""
+  summary: My repo for my own personal website for my own HuGo Website
+  tags: ["hobby", "go-lang","website"]
+
+- name: Useful Ansible AWX Automation Playbooks
+  logo: "images/projects/awx.png"
+  role: Owner
+  timeline: "Oct 2020 - Present"
+  url: "https://github.com/danielbostock/awxplays"
+  summary: A collection of plays that can easily be customised and used within most environments for AWX
+  tags: ["ansible","awx","automation"]
+
+- name: Meraki Site Creator
+  logo: images/projects/meraki.png
+  role: Owner
+  timeline: "Comming soon..."
+  #repo: https://github.com/danielbostock/
+  url: "https://danielbostock.com"
+  summary: Working on preparing this next project which will look at how Python can streamline the deployments of sites using Meraki's Python SDK.
+  tags: ["hobby", "meraki", "network-automation"]

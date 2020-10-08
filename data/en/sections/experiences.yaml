@@ -1,0 +1,84 @@
+
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Fitness Lifestyle Group
+    url: "https://www.fitlg.com"
+    location: Dhaka Branch
+    # company overview
+    overview: is the Asia-Pacific's leader in health and wellness with a portfolio of globally recognised brands across 450 locations.
+  positions:
+  - designation: Senior Network Engineer
+    start: August 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and Architect the SD WAN Migration
+    - Work within the network team on the development of the implementation and rollout strategy of SD WAN
+    - Bring Network Automation strategies and practices within the team
+
+- company:
+    name: EML Payments
+    url: "https://emlpayments.com.au"
+    location: Brisbane City
+    overview: We create awesome, instant and secure payment solutions that connect our customers to their customers, anytime, anywhere, wherever money is in motion.
+  positions: 
+  - designation: Senior IT Operations Engineer (Network & Network Security)
+    start: Jun 2019
+    end: Aug 2020
+    responsibilities:
+    - Delivery of Network Projects
+    - Management of Data Centre Networks and Firewalls
+    - Leading the charge into Network as Code
+    - Development of maintenance policies for firewalls to maintain a high security posture
+    - Ongoing training and improvement practices within the team
+
+- company:
+    name: Dominos Pizza Enterprises
+    url: "https://www.dominos.com.au"
+    location: Hamilton, QLD
+    overview: Domino's Pizza Enterprises Ltd (Domino's) is the largest pizza chain in Australia in terms of both network store numbers and network sales. It is also the largest franchisee for the Domino's Pizza brand in the world.
+  positions:
+  - designation: Infrastructure Network Engineer
+    start: Jan 2019
+    end: Jun 2019
+    responsibilities:
+    - Migration off ASA to Palo Alto's
+    - Architecting and Delivering the rollout of SD WAN to New Zealand
+    - Delivering improvements to the network infrastructure throughout Dominos stores and Head Office
+    - AWS & Azure WAN connectivity
+    - Network security at head office and all stores
+  - designation: Senior Retail Services Engineer
+    start: Jan 2017
+    end: Jan 2019
+    responsibilities:
+    - Network management across all 800 (and growing) Dominos AU and NZ stores (LAN, MPLS WAN, SD WAN Implementation, Alerting System)
+    - Network improvement and innovation
+    - Help Desk Team Management & 3rd Tier Escalation point
+    - Key internal projects management and implementation
+
+- company:
+    name: Gallagher Bassett Australia
+    url: "https://www.gallagherbassett.com.au"
+    location: Brisbane
+    overview: GB is the largest multi-disciplinary Third Party Claims Administrator in Australia.
+  positions:
+  - designation: Systems Engineer
+    start: Sept 2016
+    end: Jan 2017
+    responsibilities:
+    - Delivery of key innovative projects
+    - Design of projects and their requirements 
+    - Management of projects and collaboration with other team members to achieve a positive result
+    - PowerShell Automation
+    - Creating and providing technical documentation at an Engineer level and Service Desk level for ongoing support of project

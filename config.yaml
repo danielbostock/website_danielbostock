@@ -1,0 +1,75 @@
+baseURL: http://danielbostock.com/
+languageCode: en-us
+title: "Daniel Bostock"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+#DefaultContentLanguage: fr
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: true
+
+# Enable Google Analytics
+#googleAnalytics: UA-XXXXXXXXX-X
+
+# Enable Disqus forum
+#disqusShortname: does-not-exist
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # background image of the landing page
+  background: "images/background3.jpg"
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  # It will be default to the theme logos if not provided.
+  logo:
+    main: "images/favicon1.svg"
+    inverted: "images/favicon1.svg"
+    favicon: "images/favicon1.svg"
+
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/danielbostock/website_danielbostock
+
+  # specify whether you want to write blog post or not
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: true
+
+  author:
+    name: "Daniel Bostock"
+    nickname: "Daniel"
+    image: "images/dbavatar.png"
+    # greeting message before your name. it will default to "Hi! I am" if not provided
+    greeting: "Hi, I am"
+    # give your contact information. they will be used in the footer
+    contactInfo:
+      email: "daniel@neverland.host"
+    # a summary of what you do
+    summary:
+    - I am a Network Automation Engineer
+    - I am a NetDevOps Engineer
+    - I am a Network Boss
+    - I am really just a Network Engineer...

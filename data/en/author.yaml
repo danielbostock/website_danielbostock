@@ -1,0 +1,17 @@
+# some information about you
+name: "Daniel Bostock"
+nickname: "Daniel"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/dbavatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "me@danielbostock.com"
+
+# some summary about what you do
+summary:
+    - I am a Network Automation Engineer
+    - I am a NetDevOps Engineer
+    - I am a Network Boss
+    - I am Batman
+    - I am really just a Network Engineer... But sometimes I wear a cape and my underwear on the outside...
