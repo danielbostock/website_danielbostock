@@ -42,22 +42,22 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Networks
-  percentage: 85
+  percentage: 90
   color: blue
-- name: Team Work
+- name: SD WAN
   percentage: 90
   color: yellow
-- name: Communication
-  percentage: 85
+- name: NetDevOps
+  percentage: 65
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: Security
+  percentage: 80
   color: green
-- name: Fast Learner
-  percentage: 85
+- name: Cloud
+  percentage: 70
   color: sky
-- name: Problem Solving
-  percentage: 85
+- name: Googling Skills
+  percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1

@@ -13,9 +13,9 @@ experiences:
 - company:
     name: Fitness Lifestyle Group
     url: "https://www.fitlg.com"
-    location: Dhaka Branch
+    location: South East Brisbane Head Office
     # company overview
-    overview: is the Asia-Pacific's leader in health and wellness with a portfolio of globally recognised brands across 450 locations.
+    overview: Fitness Lifestyle Group is the Asia-Pacific's leader in health and wellness with a portfolio of globally recognised brands across 450 locations.
   positions:
   - designation: Senior Network Engineer
     start: August 2020
@@ -23,14 +23,15 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and Architect the SD WAN Migration
-    - Work within the network team on the development of the implementation and rollout strategy of SD WAN
-    - Bring Network Automation strategies and practices within the team
+    - SD WAN Architecture
+    - SD WAN Rollout and implementation strategy
+    - Global WAN Management
+    - Develop and introduce Network Automation strategies and practices within the team
 
 - company:
     name: EML Payments
     url: "https://emlpayments.com.au"
-    location: Brisbane City
+    location: Brisbane City Head Office
     overview: We create awesome, instant and secure payment solutions that connect our customers to their customers, anytime, anywhere, wherever money is in motion.
   positions: 
   - designation: Senior IT Operations Engineer (Network & Network Security)

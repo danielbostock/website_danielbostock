@@ -6,9 +6,10 @@ description: Automating tag objects and network address objects.
 theme: Toha
 menu:
   sidebar:
-    name: Network Automation
+    name: Project 1 - Stage 2
     identifier: project1-ansible-stage2
-    weight: 500
+    parent: project1
+    weight: 100
 ---
 
 Wow, what an epic trip this was for me personally putting this playbook together. It actually started off very simple but then I started question myself and say to myself how to I prevent me deploying this kind of change in a real world prod environment and not breaking anything. How can I ensure consistency and great feed back within my playbook that someone else within my team at any given work place be able to understand and do the change and not break everything.
