@@ -46,7 +46,7 @@ If you like the theme of my website and are interested in using it for yours the
 When looking at how I can provide resiliency and security to my website. There were some great cost effective options
 out there, but CloudFlare for free? I really couldn't find anything so powerful yet free.
 
-#### NGINX
+#### HTML Server
 
 <p align="left">
  <a href="https://cloudflare.com" title="NGINX">
