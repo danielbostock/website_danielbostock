@@ -57,3 +57,15 @@ out there, but CloudFlare for free? I really couldn't find anything so powerful 
 I am using NGINX to serve up the HTML to any visitors to my site. Apache was a close second but the power of NGINX
 was far too compelling.
 
+### Contributing
+
+If you feel you can contribute to this site in some way to improve it or even to improve anything then please
+feel free to contact me - danielbostock@outlook.com
+
+### License
+
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
